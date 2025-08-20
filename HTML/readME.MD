@@ -1,1 +1,0 @@
-This repository showcases my learning journey in HTML. The goal of this repo is to track my progress, serve as a personal reference, and share my growth as a web developer. Each folder contains examples and notes organized by topic, making it easy to revisit and learn.
